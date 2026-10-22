@@ -1,0 +1,15 @@
+{
+  "name": "simple-harmonic-motion-laboratory",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Browser-based interactive computational physics laboratory",
+  "scripts": {
+    "test": "npm run test:smoke && npm run test:physics && npm run test:workflows",
+    "test:smoke": "node tests/browser-smoke.cjs",
+    "test:physics": "node tests/physics-regression.cjs",
+    "test:workflows": "node tests/interface-workflows.cjs"
+  },
+  "devDependencies": {
+    "playwright": "^1.62.1"
+  }
+}
