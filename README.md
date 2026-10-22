@@ -147,7 +147,7 @@ npm test
 测试覆盖刷新率无关的计时、三种模型切换、数值积分、能量守恒、简正模、FFT、实验工作流、双语与主题切换。
 
 ### GitHub Pages
-仓库静态文件即完整应用,无需构建服务器。在仓库 **Settings → Pages → Build and deployment → Source: Deploy from a branch → Branch: `main` / `/ (root)` → Save** 即可上线。之后访问 `https://<user>.github.io/simple-harmonic-motion-simulation/`。
+仓库静态文件即完整应用,无需构建服务器。在仓库 **Settings → Pages → Build and deployment → Source: Deploy from a branch → Branch: `main` / `/ (root)` → Save** 即可上线。之后访问 `https://chcccjj.github.io/shm/simple-harmonic-motion-laboratory.html`。
 
 ---
 
@@ -175,4 +175,4 @@ npm test
 
 ---
 
-© 陈泓明 (Chris) · [github.com/Chcccjj/simple-harmonic-motion-simulation](https://github.com/Chcccjj/simple-harmonic-motion-simulation)
+© 陈泓明 (Chris) · [github.com/Chcccjj/shm](https://github.com/Chcccjj/shm)
